@@ -1,0 +1,28 @@
+_repo: Bunyan-s-Pilgrim-s-ProgressIn-Words-of-One-Syllable_43886
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43886-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Day, Samuel Phillips
+    gutenberg_agent_id: '42455'
+    url: http://www.gutenberg.org/2009/agents/42455
+description: ''
+gutenberg_issued: '2013-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43886'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Allegories'
+- !lcsh 'Christian pilgrims and pilgrimages -- Juvenile fiction'
+- !lcsh 'Dialogues'
+- !lcsh 'Salvation -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Christian life -- Juvenile fiction'
+title: 'Bunyan''s Pilgrim''s Progress: In Words of One Syllable'
+url: http://www.gutenberg.org/ebooks/43886
